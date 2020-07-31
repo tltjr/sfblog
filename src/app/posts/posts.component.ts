@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'sfb-post',
-  templateUrl: './post.component.html',
-  styleUrls: ['./post.component.css']
+  templateUrl: './posts.component.html',
+  styleUrls: ['./posts.component.css']
 })
-export class PostComponent implements OnInit {
+export class PostsComponent implements OnInit {
 
   constructor() { }
 

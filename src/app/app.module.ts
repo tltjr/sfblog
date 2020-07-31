@@ -4,17 +4,17 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
-import { PostComponent } from './post/post.component';
+import { WordListManagementComponent } from './wordlistmanagement/wordlistmanagement.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
-import { MainComponent } from './main/main.component';
+import { PostsComponent } from './posts/posts.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    PostComponent,
+    PostsComponent,
     SidebarComponent,
-    MainComponent
+    WordListManagementComponent
   ],
   imports: [
     BrowserModule,
