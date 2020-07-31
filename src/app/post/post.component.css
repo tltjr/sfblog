@@ -1,0 +1,14 @@
+.post-text {
+  font-size: 22px;
+  color: #212529;
+  font-family: Lora,'Times New Roman',serif;
+}
+p {
+  line-height: 1.5;
+  margin: 30px 0;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
